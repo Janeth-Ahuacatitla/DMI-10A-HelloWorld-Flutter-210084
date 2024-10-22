@@ -6,6 +6,7 @@ Primer Aplicación realizada en flutter para dispositivos moviles, parte de la u
 ### HISTORIAL DE PRÁCTICAS:
 
 |No.|Nombre|Potenciador|Estatus|
+|--|--|--|--|
 |20|Instalación y Configuración de Flutter|Pendiente|⭐Activa|
 |21|Hello World App|Pendiente|⭐Activa|
 
