@@ -8,7 +8,10 @@ Primer Aplicación realizada en flutter para dispositivos moviles, parte de la u
 |No.|Nombre|Potenciador|Estatus|
 |--|--|--|--|
 |20|Instalación y Configuración de Flutter|Pendiente|⭐Activa|
-|21|Hello World App|Pendiente|⭐Activa|
+|21|Hello World App|P![Captura1](https://github.com/user-attachments/assets/b6d545a3-052a-4f5f-8be6-54b0f23dbe1d)
+endiente|⭐Activa|
+
+![Uploading Captura1.PNG…]()
 
 
 ### LISTA DE HERRAMIENTAS
