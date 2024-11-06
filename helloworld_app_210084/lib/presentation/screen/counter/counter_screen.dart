@@ -17,7 +17,17 @@ class _CounterScreenState extends State<CounterScreen> {
     return Scaffold(
       appBar: AppBar(
         title: const  Center(
-    child: Text('Contador-210084')),
+    child: Text('Contador Functions-210084')),
+    actions: [
+      IconButton(
+        icon: const Icon(Icons.refresh_rounded),
+        onPressed: (){
+          setState(() {
+            
+          });
+        })
+    ],
+    
       ),
       body: Center(
         child: Column(
@@ -26,7 +36,7 @@ class _CounterScreenState extends State<CounterScreen> {
             Text('$clickCounter',
                 style: const TextStyle(fontSize: 160, fontWeight: FontWeight.w100)),
            Text(
-            clickCounter <= 1 ? 'Click' : 'Clicks',
+            clickCounter == 1 || clickCounter == -1 ? 'Click' : 'Clicks',
             style: const TextStyle(fontSize: 20))
           ],
         ),
@@ -38,7 +48,7 @@ class _CounterScreenState extends State<CounterScreen> {
             clickCounter ++;
           });
         },
-        child: Icon(Icons.plus_one),
+        child: const Icon(Icons.plus_one),
       ),
     );
   }
