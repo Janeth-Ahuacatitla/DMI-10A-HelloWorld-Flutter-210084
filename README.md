@@ -10,12 +10,12 @@ Primer Aplicación realizada en flutter para dispositivos moviles, parte de la u
 |20|Instalación y Configuración de Flutter|Pendiente|⭐Activa|
 |21|Hello World App|Pendiente|⭐Activa|
 
-![Captura1](https://github.com/user-attachments/assets/b6d545a3-052a-4f5f-8be6-54b0f23dbe1d)
-![Captura4](https://github.com/user-attachments/assets/672a71de-762d-431c-8728-56a014454cf1)
-![Captura3](https://github.com/user-attachments/assets/8991dca7-516d-449b-8b49-9c2cbbf82173)
-![Captura2](https://github.com/user-attachments/assets/d3d7a251-9bc2-4761-9a32-69fc56139196)
 
-
+![Captura de pantalla 2024-11-14 075739](https://github.com/user-attachments/assets/692861d3-c078-4960-aad6-8d8c93773572)
+![Captura de pantalla 2024-11-14 075809](https://github.com/user-attachments/assets/775522bc-e277-4955-9f70-eadad55402a9)
+![Captura de pantalla 2024-11-14 084409](https://github.com/user-attachments/assets/abac0c1a-8334-4245-b283-85dced122769)
+![Captura de pantalla 2024-11-14 075754](https://github.com/user-attachments/assets/fa297b55-827a-4eca-9412-e44f4f093a14)
+![Captura de pantalla 2024-11-14 084401](https://github.com/user-attachments/assets/ca9014c8-17cc-4348-9e48-13a5c484e676)
 
 ### LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175c2?style=for-the-badge&logo=dart&logoColor=white) ![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
