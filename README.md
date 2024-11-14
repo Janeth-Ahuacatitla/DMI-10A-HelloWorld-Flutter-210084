@@ -10,12 +10,12 @@ Primer Aplicación realizada en flutter para dispositivos moviles, parte de la u
 |20|Instalación y Configuración de Flutter|Pendiente|⭐Activa|
 |21|Hello World App|Pendiente|⭐Activa|
 
+![Captura de pantalla 2024-11-14 084917](https://github.com/user-attachments/assets/feeee60f-ecd6-430a-8910-41a92a39bc72)
+![Captura de pantalla 2024-11-14 084941](https://github.com/user-attachments/assets/d92787ff-83ff-4546-91cb-43ca25b97a63)
+![Captura de pantalla 2024-11-14 084946](https://github.com/user-attachments/assets/eb8ad444-88f7-4656-b263-bfed9dd3d61b)
+![Captura de pantalla 2024-11-14 084928](https://github.com/user-attachments/assets/189aa2cf-d573-4fb1-85dd-eba8b426b098)
+![Captura de pantalla 2024-11-14 084934](https://github.com/user-attachments/assets/b1edb9ee-b037-4b72-9a2e-11b9e13ef6f3)
 
-![Captura de pantalla 2024-11-14 075739](https://github.com/user-attachments/assets/692861d3-c078-4960-aad6-8d8c93773572)
-![Captura de pantalla 2024-11-14 075809](https://github.com/user-attachments/assets/775522bc-e277-4955-9f70-eadad55402a9)
-![Captura de pantalla 2024-11-14 084409](https://github.com/user-attachments/assets/abac0c1a-8334-4245-b283-85dced122769)
-![Captura de pantalla 2024-11-14 075754](https://github.com/user-attachments/assets/fa297b55-827a-4eca-9412-e44f4f093a14)
-![Captura de pantalla 2024-11-14 084401](https://github.com/user-attachments/assets/ca9014c8-17cc-4348-9e48-13a5c484e676)
 
 ### LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175c2?style=for-the-badge&logo=dart&logoColor=white) ![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
