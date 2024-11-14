@@ -14,7 +14,8 @@ class MyApp extends StatelessWidget {
     return  MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        colorSchemeSeed: Colors.orange
+        colorSchemeSeed: Colors.orange,
+        fontFamily: 'Lora', 
       ),
       home: Scaffold(
        body: const CounterFunctionsScreen(),
